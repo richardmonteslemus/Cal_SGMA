@@ -18,6 +18,8 @@ Policy Intervention Variation: Not all wells were subject to the January 2020 SG
 
 ### Repository Structure
 ```
+├── Cal_SGMA_files
+├── Cal_SGMA.html
 ├── Cal_SGMA.qmd
 ├── Cal_SGMA.Rproj
 ├── data
@@ -39,7 +41,10 @@ Policy Intervention Variation: Not all wells were subject to the January 2020 SG
 /Cal_SGMA.Rproj
 
 * R project space for analysis
-  
+
+/Cal_SGMA_files
+* Supporting files needed for the HTML document to work properly
+
 /Cal_SGMA.html
 * Output pdf with code and figures
 
