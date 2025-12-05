@@ -33,13 +33,14 @@ Policy Intervention Variation: Not all wells were subject to the January 2020 SG
 
 /data:
 * 03967113-1556-4100-af2c-b16a4d41b9d0.csv: California Department of Water Resources groundwater station metadata
-  
+   
     Data can be accessed [here](https://data.cnra.ca.gov/dataset/continuous-groundwater-level-measurements/resource/03967113-1556-4100-af2c-b16a4d41b9d0)
 * 16f256f8-35a4-4cab-ae02-399a2914c282.csv: California Department of Water Resources groundwater continuous monthly average per station.
-  
+   
     Data can be accessed [here](https://data.cnra.ca.gov/dataset/continuous-groundwater-level-measurements/resource/16f256f8-35a4-4cab-ae02-399a2914c282)
 /Cal_SGMA.Rproj
 
+  
 * R project space for analysis
 
 /Cal_SGMA_files
